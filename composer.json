@@ -1,6 +1,6 @@
 {
     "name": "sofyco/standalone",
-    "type": "composer-plugin",
+    "type": "library",
     "description": "Symfony standalone project",
     "keywords": ["php", "symfony", "standalone", "project"],
     "homepage": "https://github.com/sofyco/standalone",
