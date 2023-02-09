@@ -15,7 +15,6 @@
         "php": "^8.2",
         "ext-rdkafka": "*",
         "ext-mongodb": "*",
-        "sofyco/cors-response-bundle": "^1.0",
         "sofyco/doctrine-mongodb-changelog-bundle": "^1.0",
         "sofyco/doctrine-mongodb-document-denormalizer-bundle": "^1.0",
         "sofyco/doctrine-mongodb-document-validation-bundle": "^1.0",
