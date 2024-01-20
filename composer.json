@@ -7,23 +7,23 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Sofy Korzhova",
+            "name": "Sofiia Korzhova",
             "email": "sofykorzhova@gmail.com"
         }
     ],
     "require": {
-        "php": "^8.2",
+        "php": "^8.3",
         "ext-rdkafka": "*",
         "ext-mongodb": "*",
-        "sofyco/doctrine-mongodb-changelog-bundle": "^1.0",
-        "sofyco/doctrine-mongodb-document-denormalizer-bundle": "^1.0",
-        "sofyco/doctrine-mongodb-document-validation-bundle": "^1.0",
-        "sofyco/google-authenticator-bundle": "^1.0",
-        "sofyco/json-request-bundle": "^1.0",
-        "sofyco/json-response-bundle": "^1.0",
-        "sofyco/jwt-authenticator-bundle": "^1.0",
-        "sofyco/kafka-messenger-bundle": "^1.0",
-        "sofyco/pagination-doctrine-mongodb-bundle": "^1.0"
+        "sofyco/doctrine-mongodb-changelog-bundle": "^2.0",
+        "sofyco/doctrine-mongodb-document-denormalizer-bundle": "^2.0",
+        "sofyco/doctrine-mongodb-document-validation-bundle": "^2.0",
+        "sofyco/google-authenticator-bundle": "^2.0",
+        "sofyco/json-request-bundle": "^2.0",
+        "sofyco/json-response-bundle": "^2.0",
+        "sofyco/jwt-authenticator-bundle": "^2.0",
+        "sofyco/kafka-messenger-bundle": "^2.0",
+        "sofyco/pagination-doctrine-mongodb-bundle": "^2.0"
     },
     "config": {
         "preferred-install": "dist",
